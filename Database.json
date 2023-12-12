@@ -1,0 +1,49 @@
+{
+  "types": [
+    {
+      "name": "Timido",
+      "amigos": "no",
+      "hablas": "no",
+      "odio": "no"
+    },
+    {
+      "name": "Popular",
+      "amigos": "si",
+      "hablas": "si",
+      "odio": "no"
+    },
+    {
+      "name": "kks",
+      "amigos": "no",
+      "hablas": "si",
+      "odio": "si"
+    },
+    {
+      "name": "Comun",
+      "amigos": "si",
+      "hablas": "si",
+      "odio": "no"
+    },
+    {
+      "name": "Castroso",
+      "amigos": "no",
+      "hablas": "no",
+      "odio": "si"
+    }
+  ],
+  "actual": [
+    {
+      "name": "kks",
+      "amigos": "no",
+      "hablas": "si",
+      "odio": "si"
+    }
+  ],
+  "preguntas": [
+    {
+      "amigos": "Tienes amigos? ",
+      "hablas": "Hablas con facilidad con el resto de estudiantes?",
+      "odio": "Te molesta el resto de estudiantes?"
+    }
+  ]
+}
